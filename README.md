@@ -9,6 +9,8 @@
 We have discussed the following algorithms:
 
 * Apriori algorithm
+* Decision tree ID3 algorithm
+* FP Growth Algorithm
 * Bayesian Classification Algorithm
 * Decision Tree
 * Web Crawling Problem
@@ -57,6 +59,10 @@ Implement decision tree ID3 algorithm for the given dataset for Car Evaluation D
     ∗ lug-boot: small, med, big. <br/>
     ∗ safety: low, med, high. <br/>
 
+## Algorithm-4:<br>
+Dataset used: car.data.txt <br/>
+
+Implement FP Growth algorithm on the given dataset.
 
 ## Algorithm-5(i):<br>
 Dataset used: DATASET.xlsx <br/>  
