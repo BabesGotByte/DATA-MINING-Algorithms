@@ -11,9 +11,9 @@ We have discussed the following algorithms:
 * Bayesian Classification Algorithm
 * Web Crawling Problem
 * KNN Algorithm
-* Linear Regression
-** With One variable
-** With Multiple Variables
+* Linear Regression with One variable
+* Linear Regression with Multiple Variables
+* Support Vector Machine Model
 
 ## Problem Statements
 
@@ -78,6 +78,17 @@ Dataset used: ex1data2.txt <br/>
 
 Implement the linear regression with multiple variables to predict the prices of houses.<br/>
 Suppose you are selling your house and you want to know what a good market price would be. One way to do this is to first collect information on recent houses sold and make a model of housing prices. The file ex1data2.txt contains a training set of housing prices in Portland, Oregon. The first column is the size of the house (in square feet), the second column is the number of bedrooms, and the third column is the price of the house.
+
+## Algorithm-9(i):<br>
+Dataset used: data.xlsx <br/>  
+
+Write a program to train a linear SVM using the dataset given in file data.xlsx and test it using some unseen data. (Don’t use library function of SVM)
+
+## Algorithm-9(ii):<br>
+Dataset used: ionosphere.data <br/>  
+
+Train an SVM for ionosphere dataset. Divide the dataset into training and testing sets and find accuracy of SVM.
+
 
 
 
