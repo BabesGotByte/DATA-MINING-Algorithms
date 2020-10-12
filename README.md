@@ -103,12 +103,12 @@ Dataset used: Dataset.txt <br/>
 
 Perform the DBSCAN algorithm for the dataset.
 
-## Algorithm-12:<br>
+## Algorithm-12(i):<br>
 Dataset used: Absenteeism_at_work.xls <br/>  
 
 Perform the K-Mean algorithm for the dataset.
 
-## Algorithm-13:<br>
+## Algorithm-12(ii):<br>
 Dataset used: Absenteeism_at_work.xls <br/>  
 
 Perform the PAM algorithm for the dataset.
