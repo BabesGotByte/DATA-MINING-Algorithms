@@ -14,6 +14,8 @@ We have discussed the following algorithms:
 * Linear Regression with One variable
 * Linear Regression with Multiple Variables
 * Support Vector Machine Model
+* BIRCH Algorithm
+* DBSCAN Algorithm
 
 ## Problem Statements
 
