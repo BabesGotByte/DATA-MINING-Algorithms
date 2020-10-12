@@ -11,6 +11,9 @@ We have discussed the following algorithms:
 * Bayesian Classification Algorithm
 * Web Crawling Problem
 * KNN Algorithm
+* Linear Regression
+** With One variable
+** With Multiple Variables
 
 ## Problem Statements
 
