@@ -24,10 +24,10 @@ Perform the following operations on the weather dataset using Pandas.<br/>
 * Split data set by row and column wise.<br/>
 
 ## Algorithm-5(i):<br>
-Dataset used: DATASET.rar <br/>  
+Dataset used: DATASET.xlsx <br/>  
 
 Using Baysian classfication, predict the class (Target wait) for the following sample. <br/>
-X=(alt=T, Bat=T, Fri=F, Hun=T, Pat=Some, Price=$$$, Rain=T,Res=T, Type=Italian,Est&gt;60).<br/>
+X=(alt=T, Bat=T, Fri=F, Hun=T, Pat=Some, Price=$$$, Rain=T,Res=T, Type=Italian, Est>60).<br/>
 
 ## Algorithm-5(ii):<br>
 
@@ -37,4 +37,33 @@ The task is a web crawling problem.<br/>
 * Provide a unique number to each link.<br/>  
 * Select a link from the found links and repeat the steps from 1 to 3.<br/>  
 * Repeat above steps at least two times and generate an adjacency matrix.<br/>  
+
+## Algorithm-6(i):<br>
+Dataset used: DATASET.xlsx <br/>  
+
+Using Baysian classfication, predict the class (Target wait) for the following sample. <br/>
+X= (alt = T, Bat = T, Fri = F, Hun = T, Pat = Some, Price = $$$, Rain = T, Res = T, Type = Italian, Est > 60).<br/> 
+
+## Algorithm-6(ii):<br>
+Dataset used: data_sheet.xlsx <br/>  
+
+Predict a class label using naïve Bayesian classification for the tuple: <br/>
+X = {age = “<= 30”, income = “medium”, student = “yes”, credit rating = “fair”} <br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
