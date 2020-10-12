@@ -12,7 +12,6 @@ We have discussed the following algorithms:
 * Decision tree ID3 algorithm
 * FP Growth Algorithm
 * Bayesian Classification Algorithm
-* Decision Tree
 * Web Crawling Problem
 * KNN Algorithm
 * Linear Regression with One variable
