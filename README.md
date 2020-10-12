@@ -21,7 +21,7 @@ We have discussed the following algorithms:
 
 ## Problem Statements
 
-## Algorithm-1:<br>
+## Algorithm-1:
 Dataset used: weather.csv <br/>
 
 Perform the following operations on the weather dataset using Pandas.<br/>
@@ -30,6 +30,18 @@ Perform the following operations on the weather dataset using Pandas.<br/>
 * Dropping columns with missing(”NaN”) values.<br/>
 * Filling the ”Nan” values with mean, median.<br/>
 * Split data set by row and column wise.<br/>
+
+## Algorithm-2:
+Implement Apriori algorithm for association rules. Run the algorithm with two different support and confidence level defined by you. (Chees, Mushroom, Retail dataset can be used.)<br/>
+* Print closed itemset.<br/>
+* Print closed frequent itemset.<br/>
+
+Note: Let Y ⊆ I and X ⊆ Y<br/>
+If the X is an infrequent itemset, then Y is also an infrequent itemset. On that basis apply the Apriori algorithm.<br/>
+
+## Algorithm-3:
+
+
 
 ## Algorithm-5(i):<br>
 Dataset used: DATASET.xlsx <br/>  
