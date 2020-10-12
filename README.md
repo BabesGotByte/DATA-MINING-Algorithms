@@ -1,1 +1,32 @@
 # DATA-MINING-Algorithms
+
+
+# Problem Statements
+
+# Algorithm-1:<br>
+Dataset used: weather.csv <br/>
+
+Perform the following operations on the weather dataset using Pandas.<br/>
+* Reading a dataset into a dataframe.<br/>
+* Dropping rows with missing(”NaN”) values.<br/>
+* Dropping columns with missing(”NaN”) values.<br/>
+* Filling the ”Nan” values with mean, median.<br/>
+* Split data set by row and column wise.<br/>
+
+# ALGORITHM-5
+
+# Algorithm-5(i):<br>
+Dataset used: DATASET.rar <br/>  
+
+Using Baysian classfication, predict the class (Target wait) for the following sample. <br/>
+X=(alt=T, Bat=T, Fri=F, Hun=T, Pat=Some, Price=$$$, Rain=T,Res=T, Type=Italian,Est&gt;60).<br/>
+
+# Algorithm-5(ii):<br>
+
+The task is a web crawling problem.<br/>  
+* Write a program to stream web page, http://en.wikipedia.org/wiki/India.<br/>  
+* Count the number of hyperlinks in this page.<br/>  
+* Provide a unique number to each link.<br/>  
+* Select a link from the found links and repeat the steps from 1 to 3.<br/>  
+* Repeat above steps at least two times and generate an adjacency matrix.<br/>  
+
