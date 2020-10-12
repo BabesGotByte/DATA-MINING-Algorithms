@@ -10,6 +10,7 @@ We have discussed the following algorithms:
 
 * Apriori algorithm
 * Bayesian Classification Algorithm
+* Decision Tree
 * Web Crawling Problem
 * KNN Algorithm
 * Linear Regression with One variable
@@ -43,7 +44,18 @@ Note: Let Y ⊆ I and X ⊆ Y<br/>
 If the X is an infrequent itemset, then Y is also an infrequent itemset. On that basis apply the Apriori algorithm.<br/>
 
 ## Algorithm-3:
+Dataset used: car.data.txt <br/>
 
+Implement decision tree ID3 algorithm for the given dataset for Car Evaluation Database. <br/>
+* Attribute Information: Six input attributes: buying, maint, doors, persons, lugboot, safety <br/>
+* Class Values: unacc, acc, good, vgood <br/>
+* Attributes: <br/>
+    ∗ buying: vhigh, high, med, low. <br/>
+    ∗ maint: vhigh, high, med, low. <br/>
+    ∗ doors: 2, 3, 4, 5,more. <br/>
+    ∗ persons: 2, 4, more. <br/>
+    ∗ lug-boot: small, med, big. <br/>
+    ∗ safety: low, med, high. <br/>
 
 
 ## Algorithm-5(i):<br>
