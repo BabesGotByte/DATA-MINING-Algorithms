@@ -16,6 +16,8 @@ We have discussed the following algorithms:
 * Support Vector Machine Model
 * BIRCH Algorithm
 * DBSCAN Algorithm
+* K-Mean Algorithm
+* PAM Algorithm
 
 ## Problem Statements
 
@@ -94,14 +96,25 @@ Train an SVM for ionosphere dataset. Divide the dataset into training and testin
 ## Algorithm-10:<br>
 Dataset used: Dataset.txt <br/>  
 
-Perform the BIRCH algorithm for the dataset in corresponding folder.
+Perform the BIRCH algorithm for the dataset.
 
 ## Algorithm-11:<br>
 Dataset used: Dataset.txt <br/>  
 
-Perform the DBSCAN algorithm for the dataset in corresponding folder.
+Perform the DBSCAN algorithm for the dataset.
+
+## Algorithm-12:<br>
+Dataset used: Absenteeism_at_work.xls <br/>  
+
+Perform the K-Mean algorithm for the dataset.
+
+## Algorithm-13:<br>
+Dataset used: Absenteeism_at_work.xls <br/>  
+
+Perform the PAM algorithm for the dataset.
 
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
 
