@@ -10,6 +10,7 @@ We have discussed the following algorithms:
 
 * Bayesian Classification Algorithm
 * Web Crawling Problem
+* KNN Algorithm
 
 ## Problem Statements
 
@@ -50,8 +51,17 @@ Dataset used: data_sheet.xlsx <br/>
 Predict a class label using naïve Bayesian classification for the tuple: <br/>
 X = {age = “<= 30”, income = “medium”, student = “yes”, credit rating = “fair”} <br/>
 
+## Algorithm-7(i):<br>
+Dataset used: DATASET.xlsx <br/>  
 
-
+Implementation the KNN algorithm for classification purpose in Python using the following instructions: <br/>
+* The Iris data set is bundled for test, however you are free to use any data set of your choice provided that it follows the specified format. <br/>
+Data set format: <br/>
+* Attributes can be integer or real values. <br/>
+* List attributes first, and add response as the last parameter in each row. <br/>
+    * E.g. [4.5, 7, 2.6, "Orange"], where the first 3 numbers are values of attributes and "Orange" is one of the response classes. <br/>
+    * Another example can be [1.2, 4.3, 3], in this case, there are 2 attributes while the response class is the integer 3. <br/>
+* Responses can be integer, real or categorical. <br/>
 
 
 
