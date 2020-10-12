@@ -150,10 +150,9 @@ Perform the PAM algorithm for the dataset.
 Dataset used: car.data.txt <br/>
 
 Implement decision tree using C4.5 and CART algorithm for the for Car Evaluation Dataset. <br/>
-Attribute Information: <br/>
-Six input attributes: buying, maint, doors, persons, lug boot, safety <br/>
-Class Values: unacc, acc, good, vgood  <br/>
-Attributes:  <br/>
+* Attribute Information: Six input attributes: buying, maint, doors, persons, lug boot, safety <br/>
+* Class Values: unacc, acc, good, vgood  <br/>
+* Attributes:  <br/>
     Buying: vhigh, high, med, low.  <br/>
     Maint: vhigh, high, med, low.  <br/>
     Doors: 2, 3, 4, 5more.  <br/>
