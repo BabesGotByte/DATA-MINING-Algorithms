@@ -89,7 +89,15 @@ Dataset used: ionosphere.data <br/>
 
 Train an SVM for ionosphere dataset. Divide the dataset into training and testing sets and find accuracy of SVM.
 
+## Algorithm-10:<br>
+Dataset used: Dataset.txt <br/>  
 
+Perform the BIRCH algorithm for the dataset in corresponding folder.
+
+## Algorithm-11:<br>
+Dataset used: Dataset.txt <br/>  
+
+Perform the DBSCAN algorithm for the dataset in corresponding folder.
 
 
 
