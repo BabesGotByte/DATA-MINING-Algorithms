@@ -51,8 +51,8 @@ Dataset used: data_sheet.xlsx <br/>
 Predict a class label using naïve Bayesian classification for the tuple: <br/>
 X = {age = “<= 30”, income = “medium”, student = “yes”, credit rating = “fair”} <br/>
 
-## Algorithm-7(i):<br>
-Dataset used: DATASET.xlsx <br/>  
+## Algorithm-7:<br>
+Dataset used: iris-dataset.csv , iris-test.csv <br/>  
 
 Implementation the KNN algorithm for classification purpose in Python using the following instructions: <br/>
 * The Iris data set is bundled for test, however you are free to use any data set of your choice provided that it follows the specified format. <br/>
@@ -63,6 +63,18 @@ Data set format: <br/>
     * Another example can be [1.2, 4.3, 3], in this case, there are 2 attributes while the response class is the integer 3. <br/>
 * Responses can be integer, real or categorical. <br/>
 
+## Algorithm-8(i):<br>
+Dataset used: ex1data1.txt <br/>  
+
+Implement the linear regression with one variable to predict profits for a food truck.<br/>
+Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet. The chain already has trucks in various cities and you have data for profits and populations from the cities.
+You would like to use this data to help you select which city to expand to next. The file ex1data1.txt contains the dataset for our linear regression problem. The first column is the population of a city and the second column is the profit of a food truck in that city. A negative value for profit indicates a loss.
+
+## Algorithm-8(i):<br>
+Dataset used: ex1data2.txt <br/>  
+
+Implement the linear regression with multiple variables to predict the prices of houses.<br/>
+Suppose you are selling your house and you want to know what a good market price would be. One way to do this is to first collect information on recent houses sold and make a model of housing prices. The file ex1data2.txt contains a training set of housing prices in Portland, Oregon. The first column is the size of the house (in square feet), the second column is the number of bedrooms, and the third column is the price of the house.
 
 
 
