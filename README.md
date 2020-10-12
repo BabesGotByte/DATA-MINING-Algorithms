@@ -1,9 +1,19 @@
 # DATA-MINING-Algorithms
 
+[![Generic badge](https://img.shields.io/badge/DATA-MINING-<BLUE>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/MACHINE-LEARNING-<BLUE>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/LANGUAGE-PYTHON-<BLUE>.svg)](https://shields.io/)
 
-# Problem Statements
+## Algorithms Discussed:
 
-# Algorithm-1:<br>
+We have discussed the following algorithms:
+
+* Bayesian Classification Algorithm
+* Web Crawling Problem
+
+## Problem Statements
+
+## Algorithm-1:<br>
 Dataset used: weather.csv <br/>
 
 Perform the following operations on the weather dataset using Pandas.<br/>
@@ -13,15 +23,13 @@ Perform the following operations on the weather dataset using Pandas.<br/>
 * Filling the ”Nan” values with mean, median.<br/>
 * Split data set by row and column wise.<br/>
 
-# ALGORITHM-5
-
-# Algorithm-5(i):<br>
+## Algorithm-5(i):<br>
 Dataset used: DATASET.rar <br/>  
 
 Using Baysian classfication, predict the class (Target wait) for the following sample. <br/>
 X=(alt=T, Bat=T, Fri=F, Hun=T, Pat=Some, Price=$$$, Rain=T,Res=T, Type=Italian,Est&gt;60).<br/>
 
-# Algorithm-5(ii):<br>
+## Algorithm-5(ii):<br>
 
 The task is a web crawling problem.<br/>  
 * Write a program to stream web page, http://en.wikipedia.org/wiki/India.<br/>  
