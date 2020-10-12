@@ -22,6 +22,7 @@ We have discussed the following algorithms:
 * DBSCAN Algorithm
 * K-Mean Algorithm
 * PAM Algorithm
+* Decision tree using C4.5 and CART algorithm
 
 ## Problem Statements
 
@@ -146,6 +147,20 @@ Dataset used: Absenteeism_at_work.xls <br/>
 
 Perform the PAM algorithm for the dataset.
 
+## Algorithm-13:<br>
+Dataset used: car.data.txt <br/>
+
+Implement decision tree using C4.5 and CART algorithm for the for Car Evaluation Dataset. <br/>
+Attribute Information: <br/>
+Six input attributes: buying, maint, doors, persons, lug boot, safety <br/>
+Class Values: unacc, acc, good, vgood  <br/>
+Attributes:  <br/>
+    Buying: vhigh, high, med, low.  <br/>
+    Maint: vhigh, high, med, low.  <br/>
+    Doors: 2, 3, 4, 5more.  <br/>
+    Persons: 2, 4, more.  <br/>
+    Lug boot: small, med, big. <br/> 
+    Safety: low, med, high.  <br/>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
