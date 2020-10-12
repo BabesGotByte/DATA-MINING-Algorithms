@@ -8,6 +8,7 @@
 
 We have discussed the following algorithms:
 
+* Apriori algorithm
 * Bayesian Classification Algorithm
 * Web Crawling Problem
 * KNN Algorithm
@@ -32,6 +33,8 @@ Perform the following operations on the weather dataset using Pandas.<br/>
 * Split data set by row and column wise.<br/>
 
 ## Algorithm-2:
+Dataset used: data.rar <br/>
+
 Implement Apriori algorithm for association rules. Run the algorithm with two different support and confidence level defined by you. (Chees, Mushroom, Retail dataset can be used.)<br/>
 * Print closed itemset.<br/>
 * Print closed frequent itemset.<br/>
