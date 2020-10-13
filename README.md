@@ -22,6 +22,8 @@ We have discussed the following algorithms:
 * K-Mean Algorithm
 * PAM Algorithm
 * Decision tree using C4.5 and CART algorithm
+* Hierarchical Clustering Algorithm
+* OPTICS Algorithm 
 
 ## Problem Statements
 
@@ -159,6 +161,14 @@ Implement decision tree using C4.5 and CART algorithm for the for Car Evaluation
     Persons: 2, 4, more.  <br/>
     Lug boot: small, med, big. <br/> 
     Safety: low, med, high.  <br/>
+    
+## Algorithm-14(i):<br>
+Dataset used: qla.csv , matrix.xlsx <br/>
+
+Implement Hierarchical clustering algorithm and apply it on the qla.xlxs dataset. Also, show the resulting dendograms after applying average linkage approach.
+
+
+
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
