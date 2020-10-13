@@ -162,13 +162,15 @@ Implement decision tree using C4.5 and CART algorithm for the for Car Evaluation
     Lug boot: small, med, big. <br/> 
     Safety: low, med, high.  <br/>
     
-## Algorithm-14(i):<br>
+## Algorithm-14:
 Dataset used: qla.csv , matrix.xlsx <br/>
 
 Implement Hierarchical clustering algorithm and apply it on the qla.xlxs dataset. Also, show the resulting dendograms after applying average linkage approach.
 
+## Algorithm-15:
+Dataset used: data1.xlsx, data2.xlsx <br/>
 
-
+Implement OPTICS algorithm and apply it on datasets (for this epsilon = 0.02, minPts = 500) and output each point's reachability distance, core distance and order of points in the reachability graph.
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
