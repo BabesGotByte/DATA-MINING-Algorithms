@@ -1,0 +1,6 @@
+Create two folders named as "photos" and "compressed" in "dataset" folder.
+Save photos(10 preferred) of each of your friend in the folder named as "photos".
+The photos should be named as "Saumya_1.jpeg" , "Saumya_2.jpeg"....."Saumya_10.jpeg" and so on.
+The photos must be clicked at different angles(i.e. right profile, left profile, front facing and so on).
+Keep the "compressed" folder empty.
+When you will run the code, the photos from the "photos" folder will get saved to "compressed" folder after their size is compressed.
