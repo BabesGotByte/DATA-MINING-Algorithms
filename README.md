@@ -172,6 +172,16 @@ Dataset used: data1.xlsx, data2.xlsx <br/>
 
 Implement OPTICS algorithm and apply it on datasets (for this epsilon = 0.02, minPts = 500) and output each point's reachability distance, core distance and order of points in the reachability graph.
 
+## Algorithm-16:
+Dataset used: dataset <br/>
+
+Implement Face detection algorithm using Principle Component Analysis(PCA).
+
+## Algorithm-17:
+Dataset used: dataset <br/>
+
+Implement Face detection algorithm using Linear Discriminant Analysis(LDA).
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
