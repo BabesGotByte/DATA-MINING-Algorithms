@@ -24,6 +24,7 @@ We have discussed the following algorithms:
 * Decision tree using C4.5 and CART algorithm
 * Hierarchical Clustering Algorithm
 * OPTICS Algorithm 
+* Face Detection Algorithm
 
 ## Problem Statements
 
