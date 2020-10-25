@@ -25,6 +25,7 @@ We have discussed the following algorithms:
 * Hierarchical Clustering Algorithm
 * OPTICS Algorithm 
 * Face Detection Algorithm
+* Perceptron Algorithm
 
 ## Problem Statements
 
@@ -183,6 +184,11 @@ Implement Face detection algorithm using Principle Component Analysis(PCA).
 Dataset used: dataset <br/>
 
 Implement Face detection algorithm using Linear Discriminant Analysis(LDA).
+
+## Algorithm-18:
+Dataset used: Input based algorithm.<br/>
+
+Implement perceptron algorithm.
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
